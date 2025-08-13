@@ -12,7 +12,7 @@
 ## 📌 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KelenMachado)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelenribcarvalho@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-0d2a4e?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-0d2a4e?style=for-the-badge&logo=About.me&logoColor=white)](https://kelenmachado.github.io/Portifolio/))
 ![Profile Views](https://komarev.com/ghpvc/?username=KelenMachado&color=0d2a4e&style=for-the-badge)
 
 ---
