@@ -1,0 +1,27 @@
+name: GitHub Snake Animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Executa todo dia à meia-noite UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Run GitHub Contribution Snake
+        uses: github/snake@v1
+        with:
+          username: KelenMachado
+          output-file: ./github-contribution-grid-snake.svg
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Atualiza GitHub Snake contribution grid" || echo "No changes to commit"
+          git push
