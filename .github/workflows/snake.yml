@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    # Roda todo dia à meia-noite (UTC)
+    # Roda todo dia à meia-noite UTC
     - cron: "0 0 * * *"
   workflow_dispatch: # Permite rodar manualmente
 
@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Gera as versões do Snake
+      # Gera as versões da Snake
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
