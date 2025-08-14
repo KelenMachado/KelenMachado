@@ -22,7 +22,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-color.svg?color_snake=#ff006e&color_dots=#5a189a,#f72585,#3a0ca3,#4361ee,#4cc9f0
+            dist/github-contribution-grid-snake-neon.svg?color_snake=#ff00ff,#ff0099,#ff0066,#ff3300,#ff6600&color_dots=#39ff14,#00f5ff,#ff007f,#ffea00,#ff66c4
 
       # Publica os arquivos no branch "output"
       - name: Push generated files
