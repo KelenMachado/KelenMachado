@@ -50,8 +50,30 @@
 ---
 
 ## ⏳ Status Atual
-<!-- Versão colorida -->
-![Snake animation](https://github.com/KelenMachado/KelenMachado/blob/output/github-contribution-grid-snake-color.svg)
+<picture>
+  <!-- Tema claro: apenas a padrão -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KelenMachado/KelenMachado/blob/output/github-contribution-grid-snake.svg" />
+  
+  <!-- Tema escuro: neon + dark -->
+  <source media="(prefers-color-scheme: dark)" srcset="
+    https://github.com/KelenMachado/KelenMachado/blob/output/github-contribution-grid-snake-neon.svg,
+    https://github.com/KelenMachado/KelenMachado/blob/output/github-contribution-grid-snake-dark.svg" />
+  
+  <!-- Fallback -->
+  <img alt="GitHub Snake Animation" src="https://github.com/KelenMachado/KelenMachado/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!-- Ajuste manual para garantir as duas no modo escuro -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KelenMachado/KelenMachado/blob/output/github-contribution-grid-snake-neon.svg" />
+    <img alt="Snake Neon" src="" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KelenMachado/KelenMachado/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Snake Dark" src="" />
+  </picture>
+</div>
 
 ---
 
