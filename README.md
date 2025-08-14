@@ -50,7 +50,7 @@
 ---
 
 ## ⏳ Status Atual
-![GitHub Snake Light](https://github.com/KelenMachado/KelenMachado/blob/main/github-contribution-grid-snake.svg)
+![Snake animation dark](https://github.com/KelenMachado/KelenMachado/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
