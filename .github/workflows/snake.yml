@@ -1,31 +1,46 @@
-name: Generate Snake
+name: Generate Snake Animations
 
 on:
   schedule:
-    # Roda todo dia à meia-noite UTC
-    - cron: "0 0 * * *"
+    # Atualiza todos os dias às 23h UTC
+    - cron: "0 23 * * *"
   workflow_dispatch: # Permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      # Baixa o repositório
+      # Clona o repositório
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Gera as versões da Snake
-      - name: Generate snake.svg
+      # Gera Snake padrão (modo claro)
+      - name: Generate Snake Light
         uses: Platane/snk@v3
         with:
           github_user_name: KelenMachado
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-neon.svg?color_snake=#ff00ff,#ff0099,#ff0066,#ff3300,#ff6600&color_dots=#39ff14,#00f5ff,#ff007f,#ffea00,#ff66c4
+          outputs: dist/github-contribution-grid-snake.svg
 
-      # Publica os arquivos no branch "output"
-      - name: Push generated files
+      # Gera Snake Neon (modo escuro)
+      - name: Generate Snake Neon
+        uses: Platane/snk@v3
+        with:
+          github_user_name: KelenMachado
+          outputs: dist/github-contribution-grid-snake-neon.svg
+          snake_color: neon
+
+      # Gera Snake Dark (modo escuro tradicional)
+      - name: Generate Snake Dark
+        uses: Platane/snk@v3
+        with:
+          github_user_name: KelenMachado
+          outputs: dist/github-contribution-grid-snake-dark.svg
+          color_snake: "#39ff14"
+          color_dots: "#1e1e1e,#252526,#2d2d30,#3e3e42,#555555"
+
+      # Publica no branch "output"
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
