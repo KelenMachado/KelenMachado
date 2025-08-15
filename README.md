@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 Minhas Skills:
 
 ### **Hard Skills**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -31,18 +31,18 @@
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
+## 📊 Minhas estatísticas no GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelenMachado&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelenMachado&layout=compact&theme=dracula)
 
 ---
 
-## 📈 Gráfico de Contribuições
+## 📈 Gráfico de Contribuições:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KelenMachado&bg_color=0d2a4e&color=ffffff&line=00c3ff&point=00c3ff&area=true&hide_border=true)
 
 ---
 
-## 🏆 Meus Destaques
+## 🏆 Meus Destaques:
 - 💡 **Projetos em Power BI**: Dashboards gerenciais e análises avançadas
 - 🔄 **Automação de processos**: Scripts VBA e Python para otimizar tarefas
 - 📚 **Mentoria em RH & Dados**: Transformando equipes através de dados
