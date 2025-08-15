@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Skills:
+## 🚀 Skills
 
 <div align="center">
 
@@ -56,13 +56,13 @@
 
 ---
 
-## 📊 Estatísticas no GitHub:
+## 📊 Estatísticas no GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelenMachado&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelenMachado&layout=compact&theme=dracula)
 
 ---
 
-## 📈 Gráfico de Contribuições:
+## 📈 Gráfico de Contribuições
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KelenMachado&bg_color=0d2a4e&color=ffffff&line=00c3ff&point=00c3ff&area=true&hide_border=true)
 
 ---
@@ -80,7 +80,7 @@ Transformação de equipes através de análise de dados e boas práticas de RH.
 
 ---
 
-## 📌 Conecte-se comigo:
+## 📌 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelen-machado-758b393a/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelenribcarvalho@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-0d2a4e?style=for-the-badge&logo=About.me&logoColor=white)](https://kelenmachado.github.io/Portifolio/)
