@@ -81,29 +81,16 @@
 
 ---
 
-### 🏆 Meus Destaques:
+### 🏆 Meus Destaques
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px;">
-
-<div align="center" style="background:#f5f5f5; padding:16px; border-radius:12px; width:250px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-<img src="https://img.icons8.com/ios-filled/50/000000/combo-chart.png" width="40"/>
-**💡 Projetos em Power BI**  
+- **💡 Projetos em Power BI**  
 Dashboards interativos e análises avançadas para suporte à decisão estratégica.
-</div>
 
-<div align="center" style="background:#f5f5f5; padding:16px; border-radius:12px; width:250px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-<img src="https://img.icons8.com/ios-filled/50/000000/automation.png" width="40"/>
-**🔄 Automação de Processos**  
+- **🔄 Automação de Processos**  
 Scripts em VBA e Python que otimizam tarefas e aumentam a eficiência operacional.
-</div>
 
-<div align="center" style="background:#f5f5f5; padding:16px; border-radius:12px; width:250px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-<img src="https://img.icons8.com/ios-filled/50/000000/mentor.png" width="40"/>
-**📚 Mentoria em RH & Dados**  
+- **📚 Mentoria em RH & Dados**  
 Transformação de equipes através de análise de dados e boas práticas de RH.
-</div>
-
-</div>
 
 ---
 
