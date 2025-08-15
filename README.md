@@ -44,6 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
+<img src="https://techstack-generator.vercel.app/kotlin-icon.svg" width="40" height="40" alt="Kotlin" />
 
 </td>
 <td style="background-color:#FFF8DC;padding:15px;border-radius:10px;box-shadow:2px 2px 8px rgba(0,0,0,0.1);transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
