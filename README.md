@@ -61,11 +61,18 @@
 
 </div>
 
-# Linguagens que uso
+# Linguagens e Tecnologias que Uso
 
-![Python](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-![Java](https://media.giphy.com/media/3o7TKtdU3Uq8xF8LwI/giphy.gif)
-![JavaScript](https://media.giphy.com/media/3o7TKvO14u68q41qzC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Python" width="60"/>
+  <img src="https://media.giphy.com/media/3o7TKtdU3Uq8xF8LwI/giphy.gif" alt="Java" width="60"/>
+  <img src="https://media.giphy.com/media/3o7TKvO14u68q41qzC/giphy.gif" alt="JavaScript" width="60"/>
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" alt="C#" width="60"/>
+  <img src="https://media.giphy.com/media/xUOxfjsW5WJ5H6lqF2/giphy.gif" alt="C++" width="60"/>
+  <img src="https://media.giphy.com/media/l41lZxzroU33TyK8E/giphy.gif" alt="Kotlin" width="60"/>
+  <img src="https://media.giphy.com/media/l41lQK5J3q3cZxSos/giphy.gif" alt="HTML5" width="60"/>
+  <img src="https://media.giphy.com/media/l0HlRmP3r8n93ijrm/giphy.gif" alt="CSS3" width="60"/>
+</p>
 
 ### **Soft Skills** 
 
