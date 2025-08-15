@@ -67,6 +67,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
+  <img src="https://techstack-generator.vercel.app/excel-icon.svg" width="40" height="40" alt="Excel" />
+  <img src="https://techstack-generator.vercel.app/access-icon.svg" width="40" height="40" alt="Access" />
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" width="40" height="40" alt="HTML" />
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" width="40" height="40" alt="CSS" />
+  <img src="https://techstack-generator.vercel.app/javascript-icon.svg" width="40" height="40" alt="JavaScript" />
 </div>
 
 ### **Soft Skills** 
