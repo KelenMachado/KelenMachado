@@ -61,6 +61,12 @@
 
 </div>
 
+# Linguagens que uso
+
+![Python](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Java](https://media.giphy.com/media/3o7TKtdU3Uq8xF8LwI/giphy.gif)
+![JavaScript](https://media.giphy.com/media/3o7TKvO14u68q41qzC/giphy.gif)
+
 ### **Soft Skills** 
 
 📈 Liderança
