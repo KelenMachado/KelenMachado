@@ -62,7 +62,43 @@
 </div>
 
 ### **Soft Skills**
-📈 Liderança • 🤝 Trabalho em equipe • 💡 Resolução de problemas • 📊 Pensamento analítico
+
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
+<!-- Card 1 -->
+<div style="background-color:#FFD966; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; min-width:160px; text-align:center; transition:0.3s; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.2s;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
+  📈<br>
+  <strong>Liderança</strong>
+</div>
+
+<!-- Card 2 -->
+<div style="background-color:#9FC5E8; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; min-width:160px; text-align:center; transition:0.3s; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.4s;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
+  🤝<br>
+  <strong>Trabalho em Equipe</strong>
+</div>
+
+<!-- Card 3 -->
+<div style="background-color:#FFE599; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; min-width:160px; text-align:center; transition:0.3s; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.6s;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
+  💡<br>
+  <strong>Resolução de Problemas</strong>
+</div>
+
+<!-- Card 4 -->
+<div style="background-color:#A2C4C9; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; min-width:160px; text-align:center; transition:0.3s; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.8s;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
+  📊<br>
+  <strong>Pensamento Analítico</strong>
+</div>
+
+</div>
+
+<!-- Animação inline para GitHub README -->
+<div style="display:none;">
+<style>
+@keyframes fadeIn {
+  to { opacity: 1; }
+}
+</style>
+</div>
 
 ---
 
