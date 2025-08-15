@@ -24,7 +24,7 @@
 <div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
 <!-- Card 1 -->
-<div style="background-color:#FFF8DC; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.2s;">
+<div style="background-color:#FFF8DC; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; transition:0.3s; opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
   <h4>📊 Análise e Visualização</h4>
   <p>
     <img src="https://media.giphy.com/media/f8N1Gm5gqkJz7x3uhH/giphy.gif" width="25"/> ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>
@@ -33,7 +33,7 @@
 </div>
 
 <!-- Card 2 -->
-<div style="background-color:#F0F8FF; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.4s;">
+<div style="background-color:#F0F8FF; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; transition:0.3s; opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
   <h4>🤖 Automação e Scripts</h4>
   <p>
     <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="25"/> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
@@ -42,7 +42,7 @@
 </div>
 
 <!-- Card 3 -->
-<div style="background-color:#FFF8DC; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.6s;">
+<div style="background-color:#FFF8DC; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; transition:0.3s; opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
   <h4>🗄️ Banco de Dados</h4>
   <p>
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="25"/> ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)<br>
@@ -51,7 +51,7 @@
 </div>
 
 <!-- Card 4 -->
-<div style="background-color:#F0F8FF; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.8s;">
+<div style="background-color:#F0F8FF; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; transition:0.3s; opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
   <h4>🌐 Desenvolvimento Web</h4>
   <p>
     <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="25"/> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
@@ -60,15 +60,6 @@
   </p>
 </div>
 
-</div>
-
-<!-- Animação inline para GitHub README -->
-<div style="display:none;">
-<style>
-@keyframes fadeIn {
-  to { opacity: 1; }
-}
-</style>
 </div>
 
 ### **Soft Skills**
