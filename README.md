@@ -31,30 +31,26 @@
 <th style="background-color:#F0F8FF;">🌐 Desenvolvimento Web</th>
 </tr>
 <tr>
-<td style="background-color:#FFF8DC;padding:10px;transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
-
-- <img src="https://media.giphy.com/media/f8N1Gm5gqkJz7x3uhH/giphy.gif" width="25"/> ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/> ![Excel Avançado](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+<td style="background-color:#FFF8DC;padding:15px;transition:0.3s;opacity:1;text-align:left;" 
+    onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+  <p>- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)</p>
+  <p>- ![Excel Avançado](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)</p>
 </td>
-<td style="background-color:#F0F8FF;padding:10px;transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
-
-- <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="25"/> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="25"/> ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-
+<td style="background-color:#F0F8FF;padding:15px;transition:0.3s;opacity:1;text-align:left;" 
+    onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+  <p>- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</p>
+  <p>- ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)</p>
 </td>
-<td style="background-color:#FFF8DC;padding:10px;transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
-
-- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="25"/> ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
-- <img src="https://media.giphy.com/media/UqZ4imFIoljlrqgZZz/giphy.gif" width="25"/> ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-
+<td style="background-color:#FFF8DC;padding:15px;transition:0.3s;opacity:1;text-align:left;" 
+    onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+  <p>- ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)</p>
+  <p>- ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)</p>
 </td>
-<td style="background-color:#F0F8FF;padding:10px;transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.7" onmouseout="this.style.opacity=1">
-
-- <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="25"/> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-- <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="25"/> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-- <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"/> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+<td style="background-color:#F0F8FF;padding:15px;transition:0.3s;opacity:1;text-align:left;" 
+    onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+  <p>- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</p>
+  <p>- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</p>
+  <p>- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</p>
 </td>
 </tr>
 </table>
