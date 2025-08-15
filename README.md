@@ -25,32 +25,28 @@
 
 <table>
 <tr>
-<th style="background-color:#FFF8DC;">📊 Análise e Visualização de Dados</th>
-<th style="background-color:#F0F8FF;">🤖 Automação e Scripts</th>
-<th style="background-color:#FFF8DC;">🗄️ Banco de Dados</th>
-<th style="background-color:#F0F8FF;">🌐 Desenvolvimento Web</th>
+<th style="background-color:#FFF8DC;padding:10px;">📊 Análise e Visualização de Dados</th>
+<th style="background-color:#F0F8FF;padding:10px;">🤖 Automação e Scripts</th>
+<th style="background-color:#FFF8DC;padding:10px;">🗄️ Banco de Dados</th>
+<th style="background-color:#F0F8FF;padding:10px;">🌐 Desenvolvimento Web</th>
 </tr>
 <tr>
-<td style="background-color:#FFF8DC;padding:15px;transition:0.3s;opacity:1;text-align:left;" 
-    onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-  <p>- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)</p>
-  <p>- ![Excel Avançado](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)</p>
+<td style="background-color:#FFF8DC;padding:15px;text-align:center;transition:0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br><br>
+  ![Excel Avançado](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 </td>
-<td style="background-color:#F0F8FF;padding:15px;transition:0.3s;opacity:1;text-align:left;" 
-    onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-  <p>- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</p>
-  <p>- ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)</p>
+<td style="background-color:#F0F8FF;padding:15px;text-align:center;transition:0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br><br>
+  ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
 </td>
-<td style="background-color:#FFF8DC;padding:15px;transition:0.3s;opacity:1;text-align:left;" 
-    onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-  <p>- ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)</p>
-  <p>- ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)</p>
+<td style="background-color:#FFF8DC;padding:15px;text-align:center;transition:0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)<br><br>
+  ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 </td>
-<td style="background-color:#F0F8FF;padding:15px;transition:0.3s;opacity:1;text-align:left;" 
-    onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-  <p>- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</p>
-  <p>- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</p>
-  <p>- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</p>
+<td style="background-color:#F0F8FF;padding:15px;text-align:center;transition:0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br><br>
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br><br>
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 </td>
 </tr>
 </table>
