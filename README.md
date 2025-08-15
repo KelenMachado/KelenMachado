@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Minhas Skills:
+## 🚀 Skills:
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 Minhas estatísticas no GitHub:
+## 📊 Estatísticas no GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelenMachado&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelenMachado&layout=compact&theme=dracula)
 
@@ -67,7 +67,7 @@
 
 ---
 
-### 🏆 Meus Destaques
+### 🏆 Destaques
 
 - **💡 Projetos em Power BI**  
 Dashboards interativos e análises avançadas para suporte à decisão estratégica.
