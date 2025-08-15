@@ -96,8 +96,14 @@ Transformação de equipes através de análise de dados e boas práticas de RH.
 
 ## ⏳ Status Atual
 <p align="center">
-  <img alt="Snake Animation" 
-       src="https://raw.githubusercontent.com/KelenMachado/KelenMachado/output/github-contribution-grid-snake.svg" />
+  <img 
+    alt="Snake Animation" 
+    src="https://raw.githubusercontent.com/KelenMachado/KelenMachado/output/github-contribution-grid-snake.svg" 
+    width="600"
+  />
+</p>
+<p align="center">
+  🐍 Versão padrão (tema claro). Tema escuro disponível em SVG neon no repositório.
 </p>
 
 ---
