@@ -10,10 +10,49 @@
 ---
 
 ## 📌 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelen-machado-758b393a/))
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelenribcarvalho@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-0d2a4e?style=for-the-badge&logo=About.me&logoColor=white)](https://kelenmachado.github.io/Portifolio/))
-![Profile Views](https://komarev.com/ghpvc/?username=KelenMachado&color=0d2a4e&style=for-the-badge)
+
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
+<!-- Card LinkedIn -->
+<div style="background-color:#0A66C2; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; text-align:center; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.2s;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
+  <a href="https://www.linkedin.com/in/kelen-machado-758b393a/" target="_blank" style="text-decoration:none; color:white;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="160"/><br>
+    <strong>LinkedIn</strong>
+  </a>
+</div>
+
+<!-- Card E-mail -->
+<div style="background-color:#D14836; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; text-align:center; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.4s;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
+  <a href="mailto:kelenribcarvalho@gmail.com" style="text-decoration:none; color:white;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="160"/><br>
+    <strong>Email</strong>
+  </a>
+</div>
+
+<!-- Card Portfólio -->
+<div style="background-color:#0d2a4e; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; text-align:center; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.6s;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
+  <a href="https://kelenmachado.github.io/Portifolio/" target="_blank" style="text-decoration:none; color:white;">
+    <img src="https://img.shields.io/badge/Portfólio-0d2a4e?style=for-the-badge&logo=About.me&logoColor=white" width="160"/><br>
+    <strong>Portfólio</strong>
+  </a>
+</div>
+
+<!-- Card Profile Views -->
+<div style="background-color:#0d2a4e; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; text-align:center; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.8s;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
+  <img src="https://komarev.com/ghpvc/?username=KelenMachado&color=0d2a4e&style=for-the-badge" width="160"/><br>
+  <strong>Profile Views</strong>
+</div>
+
+</div>
+
+<!-- Animação inline para GitHub README -->
+<div style="display:none;">
+<style>
+@keyframes fadeIn {
+  to { opacity: 1; }
+}
+</style>
+</div>
 
 ---
 
