@@ -58,7 +58,6 @@
 </style>
 </div>
 
-
 ### **Soft Skills** 
 
 📈 Liderança
