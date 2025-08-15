@@ -54,9 +54,9 @@
 </td>
 <td style="background-color:#F0F8FF;padding:15px;border-radius:10px;box-shadow:2px 2px 8px rgba(0,0,0,0.1);transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
 
-- <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="25"/> 
-- <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="25"/>
-- <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"/>
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40" height="40" alt="Python" />
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40" height="40" alt="Python" />
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="40" height="40" alt="Python" />
 
 </td>
 </tr>
