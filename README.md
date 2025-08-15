@@ -21,9 +21,23 @@
 
 ### **Hard Skills**
 
-| 📊 Análise e Visualização de Dados | 🤖 Automação e Scripts | 🗄️ Banco de Dados | 🌐 Desenvolvimento Web |
-|------------------------------------|------------------------|-------------------|-------------------------|
-| <img src="https://media.giphy.com/media/f8N1Gm5gqkJz7x3uhH/giphy.gif" width="25"/> ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <br> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/> ![Excel Avançado](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="25"/> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="25"/> ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white) | <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="25"/> ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white) <br> <img src="https://media.giphy.com/media/UqZ4imFIoljlrqgZZz/giphy.gif" width="25"/> ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white) | <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="25"/> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="25"/> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br> <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"/> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+#### 📊 Análise e Visualização de Dados
+<img src="https://media.giphy.com/media/f8N1Gm5gqkJz7x3uhH/giphy.gif" width="25"/> ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/> ![Excel Avançado](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+#### 🤖 Automação e Scripts
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="25"/> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="25"/> ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+
+#### 🗄️ Banco de Dados
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="25"/> ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
+<img src="https://media.giphy.com/media/UqZ4imFIoljlrqgZZz/giphy.gif" width="25"/> ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+
+#### 🌐 Desenvolvimento Web
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="25"/> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="25"/> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"/> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ### **Soft Skills**
 📈 Liderança • 🤝 Trabalho em equipe • 💡 Resolução de problemas • 📊 Pensamento analítico
