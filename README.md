@@ -95,19 +95,9 @@ Transformação de equipes através de análise de dados e boas práticas de RH.
 ---
 
 ## ⏳ Status Atual
-<!-- Snake com troca automática de tema -->
 <p align="center">
-  <picture>
-    <!-- Tema escuro: Neon -->
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/KelenMachado/KelenMachado/output/github-contribution-grid-snake-neon.svg" />
-    <!-- Tema claro: padrão -->
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://raw.githubusercontent.com/KelenMachado/KelenMachado/output/github-contribution-grid-snake.svg" />
-    <!-- Fallback -->
-    <img alt="Snake Animation" 
-         src="https://raw.githubusercontent.com/KelenMachado/KelenMachado/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="Snake Animation" 
+       src="https://raw.githubusercontent.com/KelenMachado/KelenMachado/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
