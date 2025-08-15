@@ -21,23 +21,55 @@
 
 ### **Hard Skills**
 
-#### 📊 Análise e Visualização de Dados
-<img src="https://media.giphy.com/media/f8N1Gm5gqkJz7x3uhH/giphy.gif" width="25"/> ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/> ![Excel Avançado](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
-#### 🤖 Automação e Scripts
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="25"/> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="25"/> ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+<!-- Card 1 -->
+<div style="background-color:#FFF8DC; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.2s;">
+  <h4>📊 Análise e Visualização</h4>
+  <p>
+    <img src="https://media.giphy.com/media/f8N1Gm5gqkJz7x3uhH/giphy.gif" width="25"/> ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/> ![Excel Avançado](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  </p>
+</div>
 
-#### 🗄️ Banco de Dados
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="25"/> ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)  
-<img src="https://media.giphy.com/media/UqZ4imFIoljlrqgZZz/giphy.gif" width="25"/> ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+<!-- Card 2 -->
+<div style="background-color:#F0F8FF; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.4s;">
+  <h4>🤖 Automação e Scripts</h4>
+  <p>
+    <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="25"/> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="25"/> ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+  </p>
+</div>
 
-#### 🌐 Desenvolvimento Web
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="25"/> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="25"/> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"/> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- Card 3 -->
+<div style="background-color:#FFF8DC; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.6s;">
+  <h4>🗄️ Banco de Dados</h4>
+  <p>
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="25"/> ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)<br>
+    <img src="https://media.giphy.com/media/UqZ4imFIoljlrqgZZz/giphy.gif" width="25"/> ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+  </p>
+</div>
 
+<!-- Card 4 -->
+<div style="background-color:#F0F8FF; border-radius:10px; box-shadow:2px 2px 8px rgba(0,0,0,0.1); padding:15px; width:180px; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.8s;">
+  <h4>🌐 Desenvolvimento Web</h4>
+  <p>
+    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="25"/> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
+    <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="25"/> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
+    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"/> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  </p>
+</div>
+
+</div>
+
+<!-- Animação inline para GitHub README -->
+<div style="display:none;">
+<style>
+@keyframes fadeIn {
+  to { opacity: 1; }
+}
+</style>
+</div>
 
 ### **Soft Skills**
 📈 Liderança • 🤝 Trabalho em equipe • 💡 Resolução de problemas • 📊 Pensamento analítico
