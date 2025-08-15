@@ -9,17 +9,7 @@
 
 ---
 
-## 📌 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelen-machado-758b393a/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelenribcarvalho@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-0d2a4e?style=for-the-badge&logo=About.me&logoColor=white)](https://kelenmachado.github.io/Portifolio/)
-![Profile Views](https://komarev.com/ghpvc/?username=KelenMachado&color=0d2a4e&style=for-the-badge)
-
----
-
 ## 🚀 Minhas Skills:
-
-### **Hard Skills**
 
 <div align="center">
 
@@ -64,13 +54,6 @@
 
 </div>
 
-### **Soft Skills** 
-
-📈 Liderança
-🤝 Trabalho em equipe
-💡 Resolução de problemas
-📊 Pensamento analítico
-
 ---
 
 ## 📊 Minhas estatísticas no GitHub:
@@ -94,6 +77,14 @@ Scripts em VBA e Python que otimizam tarefas e aumentam a eficiência operaciona
 
 - **📚 Mentoria em RH & Dados**  
 Transformação de equipes através de análise de dados e boas práticas de RH.
+
+---
+
+## 📌 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelen-machado-758b393a/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelenribcarvalho@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-0d2a4e?style=for-the-badge&logo=About.me&logoColor=white)](https://kelenmachado.github.io/Portifolio/)
+![Profile Views](https://komarev.com/ghpvc/?username=KelenMachado&color=0d2a4e&style=for-the-badge)
 
 ---
 
