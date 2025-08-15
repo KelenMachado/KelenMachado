@@ -63,7 +63,10 @@
 
 ### **Soft Skills** 
 
-📈 Liderança • 🤝 Trabalho em equipe • 💡 Resolução de problemas • 📊 Pensamento analítico
+📈 Liderança
+🤝 Trabalho em equipe
+💡 Resolução de problemas
+📊 Pensamento analítico
 
 ---
 
