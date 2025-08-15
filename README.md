@@ -1,7 +1,7 @@
 <!-- Capa com frase de impacto -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d2a4e&height=120&section=header"/>
 
-# 👋 Olá, sou a **Kelen Machado**
+# 👋 Olá, sou a **Kelen**
 
 💼 **Especialista em Departamento Pessoal, RH e Análise de Dados**  
 📊 Transformo **dados** em **decisões estratégicas**  
