@@ -81,21 +81,16 @@
 
 ---
 
-<!-- 🏆 Destaques -->
-<div style="display:flex; flex-wrap:wrap; gap:10px; margin-bottom:20px;">
-  <div style="flex:1; min-width:220px; background:#0A66C2; color:white; padding:15px; border-radius:10px; text-align:center;">
-    <h3>💡 Power BI</h3>
-    <p>Dashboards interativos e análises avançadas para suporte à decisão estratégica.</p>
-  </div>
-  <div style="flex:1; min-width:220px; background:#FF6F61; color:white; padding:15px; border-radius:10px; text-align:center;">
-    <h3>🔄 Automação</h3>
-    <p>Scripts em VBA e Python que otimizam tarefas e aumentam a eficiência operacional.</p>
-  </div>
-  <div style="flex:1; min-width:220px; background:#FFD700; color:#333; padding:15px; border-radius:10px; text-align:center;">
-    <h3>📚 Mentoria</h3>
-    <p>Transformação de equipes através de análise de dados e boas práticas de RH.</p>
-  </div>
-</div>
+### 🏆 Meus Destaques
+
+- **💡 Projetos em Power BI**  
+Dashboards interativos e análises avançadas para suporte à decisão estratégica.
+
+- **🔄 Automação de Processos**  
+Scripts em VBA e Python que otimizam tarefas e aumentam a eficiência operacional.
+
+- **📚 Mentoria em RH & Dados**  
+Transformação de equipes através de análise de dados e boas práticas de RH.
 
 ---
 
