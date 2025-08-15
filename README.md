@@ -39,8 +39,11 @@
 </td>
 <td style="background-color:#F0F8FF;padding:15px;border-radius:10px;box-shadow:2px 2px 8px rgba(0,0,0,0.1);transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
 
-- <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="25"/> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-- <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="25"/> ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+- <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
+- <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
 
 </td>
 <td style="background-color:#FFF8DC;padding:15px;border-radius:10px;box-shadow:2px 2px 8px rgba(0,0,0,0.1);transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
@@ -58,16 +61,6 @@
 </td>
 </tr>
 </table>
-
-</div>
-
-<div align="left">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
-  <img src="https://techstack-generator.vercel.app/javascript-icon.svg" width="40" height="40" alt="JavaScript" />
 
 </div>
 
