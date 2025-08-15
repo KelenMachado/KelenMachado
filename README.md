@@ -61,44 +61,9 @@
 
 </div>
 
-### **Soft Skills**
+### **Soft Skills** 
 
-<div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-
-<!-- Card 1: Liderança -->
-<div style="background-color:#FFD966; border-radius:12px; box-shadow:3px 3px 12px rgba(0,0,0,0.15); padding:20px; width:180px; text-align:center; transition:0.3s; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.2s;" onmouseover="this.style.opacity=0.85" onmouseout="this.style.opacity=1">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="60"/><br>
-  <strong>Liderança</strong>
-</div>
-
-<!-- Card 2: Trabalho em Equipe -->
-<div style="background-color:#9FC5E8; border-radius:12px; box-shadow:3px 3px 12px rgba(0,0,0,0.15); padding:20px; width:180px; text-align:center; transition:0.3s; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.4s;" onmouseover="this.style.opacity=0.85" onmouseout="this.style.opacity=1">
-  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="60"/><br>
-  <strong>Trabalho em Equipe</strong>
-</div>
-
-<!-- Card 3: Resolução de Problemas -->
-<div style="background-color:#FFE599; border-radius:12px; box-shadow:3px 3px 12px rgba(0,0,0,0.15); padding:20px; width:180px; text-align:center; transition:0.3s; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.6s;" onmouseover="this.style.opacity=0.85" onmouseout="this.style.opacity=1">
-  <img src="https://media.giphy.com/media/3o6ZsY6dzHzF4Ujv7a/giphy.gif" width="60"/><br>
-  <strong>Resolução de Problemas</strong>
-</div>
-
-<!-- Card 4: Pensamento Analítico -->
-<div style="background-color:#A2C4C9; border-radius:12px; box-shadow:3px 3px 12px rgba(0,0,0,0.15); padding:20px; width:180px; text-align:center; transition:0.3s; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.8s;" onmouseover="this.style.opacity=0.85" onmouseout="this.style.opacity=1">
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut5a8I/giphy.gif" width="60"/><br>
-  <strong>Pensamento Analítico</strong>
-</div>
-
-</div>
-
-<!-- Animação inline para GitHub README -->
-<div style="display:none;">
-<style>
-@keyframes fadeIn {
-  to { opacity: 1; }
-}
-</style>
-</div>
+📈 Liderança • 🤝 Trabalho em equipe • 💡 Resolução de problemas • 📊 Pensamento analítico
 
 ---
 
