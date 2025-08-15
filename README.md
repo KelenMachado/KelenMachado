@@ -19,39 +19,45 @@
 
 ## 🚀 Minhas Skills:
 
-### **Hard Skills**
+### **Soft Skills**
 
-<div align="center">
+<div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
-<table>
-<tr>
-<th style="background-color:#FFF8DC;padding:10px;">📊 Análise e Visualização de Dados</th>
-<th style="background-color:#F0F8FF;padding:10px;">🤖 Automação e Scripts</th>
-<th style="background-color:#FFF8DC;padding:10px;">🗄️ Banco de Dados</th>
-<th style="background-color:#F0F8FF;padding:10px;">🌐 Desenvolvimento Web</th>
-</tr>
-<tr>
-<td style="background-color:#FFF8DC;padding:15px;text-align:center;transition:0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)<br><br>
-  ![Excel Avançado](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-</td>
-<td style="background-color:#F0F8FF;padding:15px;text-align:center;transition:0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br><br>
-  ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-</td>
-<td style="background-color:#FFF8DC;padding:15px;text-align:center;transition:0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)<br><br>
-  ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-</td>
-<td style="background-color:#F0F8FF;padding:15px;text-align:center;transition:0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br><br>
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br><br>
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-</td>
-</tr>
-</table>
+<!-- Card 1: Liderança -->
+<div style="background-color:#FFD966; border-radius:12px; box-shadow:3px 3px 12px rgba(0,0,0,0.15); padding:20px; width:180px; text-align:center; transition:0.3s; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.2s;" onmouseover="this.style.opacity=0.85" onmouseout="this.style.opacity=1">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="60"/><br>
+  <strong>Liderança</strong>
+</div>
+
+<!-- Card 2: Trabalho em Equipe -->
+<div style="background-color:#9FC5E8; border-radius:12px; box-shadow:3px 3px 12px rgba(0,0,0,0.15); padding:20px; width:180px; text-align:center; transition:0.3s; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.4s;" onmouseover="this.style.opacity=0.85" onmouseout="this.style.opacity=1">
+  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="60"/><br>
+  <strong>Trabalho em Equipe</strong>
+</div>
+
+<!-- Card 3: Resolução de Problemas -->
+<div style="background-color:#FFE599; border-radius:12px; box-shadow:3px 3px 12px rgba(0,0,0,0.15); padding:20px; width:180px; text-align:center; transition:0.3s; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.6s;" onmouseover="this.style.opacity=0.85" onmouseout="this.style.opacity=1">
+  <img src="https://media.giphy.com/media/3o6ZsY6dzHzF4Ujv7a/giphy.gif" width="60"/><br>
+  <strong>Resolução de Problemas</strong>
+</div>
+
+<!-- Card 4: Pensamento Analítico -->
+<div style="background-color:#A2C4C9; border-radius:12px; box-shadow:3px 3px 12px rgba(0,0,0,0.15); padding:20px; width:180px; text-align:center; transition:0.3s; opacity:0; animation:fadeIn 0.5s forwards; animation-delay:0.8s;" onmouseover="this.style.opacity=0.85" onmouseout="this.style.opacity=1">
+  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut5a8I/giphy.gif" width="60"/><br>
+  <strong>Pensamento Analítico</strong>
+</div>
 
 </div>
+
+<!-- Animação inline para GitHub README -->
+<div style="display:none;">
+<style>
+@keyframes fadeIn {
+  to { opacity: 1; }
+}
+</style>
+</div>
+
 
 ### **Soft Skills** 
 
