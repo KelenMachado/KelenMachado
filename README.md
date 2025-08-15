@@ -61,18 +61,24 @@
 
 </div>
 
-# Linguagens e Tecnologias que Uso
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Python" width="60"/>
-  <img src="https://media.giphy.com/media/3o7TKtdU3Uq8xF8LwI/giphy.gif" alt="Java" width="60"/>
-  <img src="https://media.giphy.com/media/3o7TKvO14u68q41qzC/giphy.gif" alt="JavaScript" width="60"/>
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" alt="C#" width="60"/>
-  <img src="https://media.giphy.com/media/xUOxfjsW5WJ5H6lqF2/giphy.gif" alt="C++" width="60"/>
-  <img src="https://media.giphy.com/media/l41lZxzroU33TyK8E/giphy.gif" alt="Kotlin" width="60"/>
-  <img src="https://media.giphy.com/media/l41lQK5J3q3cZxSos/giphy.gif" alt="HTML5" width="60"/>
-  <img src="https://media.giphy.com/media/l0HlRmP3r8n93ijrm/giphy.gif" alt="CSS3" width="60"/>
-</p>
+<div align="left">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" height="40" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" alt="Java" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="55" height="55" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="60" height="60" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" alt="Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=wordpress" width="40" alt="WordPress" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
+  </a>
+</div>
 
 ### **Soft Skills** 
 
