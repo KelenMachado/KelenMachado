@@ -12,7 +12,6 @@
 <tr>
 <th style="background-color:#FFF8DC;border-radius:10px;padding:10px;">📊 Análise de Dados</th>
 <th style="background-color:#F0F8FF;border-radius:10px;padding:10px;">🤖 Automação e Scripts</th>
-<th style="background-color:#FFF8DC;border-radius:10px;padding:10px;">🗄️ Banco de Dados</th>
 <th style="background-color:#F0F8FF;border-radius:10px;padding:10px;">🌐 Dev Web</th>
 </tr>
 <tr>
@@ -20,6 +19,8 @@
 
 <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000.png/" width="40" height="40" alt="Power BI" />
 <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000.png" width="40" height="40" alt="Excel" />
+<img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000.png" width="40" height="40" alt="SQL" />
+<img src="https://img.icons8.com/?size=100&id=JdOSrU3pawBf&format=png&color=000000.png" width="40" height="40" alt="Access" />
 
 </td>
 <td style="background-color:#F0F8FF;padding:15px;border-radius:10px;box-shadow:2px 2px 8px rgba(0,0,0,0.1);transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
@@ -29,12 +30,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
-
-</td>
-<td style="background-color:#FFF8DC;padding:15px;border-radius:10px;box-shadow:2px 2px 8px rgba(0,0,0,0.1);transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
-
-<img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000.png" width="40" height="40" alt="SQL" />
-<img src="https://img.icons8.com/?size=100&id=JdOSrU3pawBf&format=png&color=000000.png" width="40" height="40" alt="Access" />
 
 </td>
 <td style="background-color:#F0F8FF;padding:15px;border-radius:10px;box-shadow:2px 2px 8px rgba(0,0,0,0.1);transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
