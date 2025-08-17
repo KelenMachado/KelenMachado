@@ -70,7 +70,7 @@ Dashboards interativos e análises avançadas para suporte à decisão estratég
 - **🔄 Automação de Processos**  
 Scripts em VBA e Python que otimizam tarefas e aumentam a eficiência operacional.
 
-- **📚 Mentoria em RH & Dados**  
+- **📚 RH & Dados**  
 Transformação de equipes através de análise de dados e boas práticas de RH.
 
 ---
