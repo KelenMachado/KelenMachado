@@ -61,13 +61,13 @@ Profissional em transição para Dados e Programação, com experiência em RH e
 
 ### 🏆 Destaques
 
-- **💡 Projetos em Power BI**  
+**💡 Projetos em Power BI**  
 Dashboards interativos e análises avançadas para suporte à decisão estratégica.
 
-- **🔄 Automação de Processos**  
+**🔄 Automação de Processos**  
 Scripts em VBA e Python que otimizam tarefas e aumentam a eficiência operacional.
 
-- **📚 RH & Dados**  
+**📚 RH & Dados**  
 Transformação de equipes através de análise de dados e boas práticas de RH.
 
 ---
