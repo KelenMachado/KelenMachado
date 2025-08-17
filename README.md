@@ -76,11 +76,11 @@ Transformação de equipes através de análise de dados e boas práticas de RH.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kelen-machado-758b393a/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4pERlacy450_COkvxKF1ODlXEe2gpHLfFrw&s.gif" width="45" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4pERlacy450_COkvxKF1ODlXEe2gpHLfFrw&s.svg" width="45" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:kelenribcarvalho@gmail.com">
-    <img src="https://cdn.dribbble.com/userupload/21431665/file/original-1bb12c5f23da1c97fc2e25e87290b43d.gif" width="60"/>
+    <img src="https://cdn.dribbble.com/userupload/21431665/file/original-1bb12c5f23da1c97fc2e25e87290b43d.svg" width="60"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://kelenmachado.github.io/Portifolio/">
