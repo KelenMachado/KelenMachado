@@ -23,7 +23,7 @@
 <tr>
 <td style="background-color:#FFF8DC;padding:15px;border-radius:10px;box-shadow:2px 2px 8px rgba(0,0,0,0.1);transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
 
-- <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000.png/" width="25"/> ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+<img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000.png/" width="40"/>
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/> ![Excel Avançado](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </td>
