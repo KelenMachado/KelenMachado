@@ -72,20 +72,21 @@ Transformação de equipes através de análise de dados e boas práticas de RH.
 
 ## 📌 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/kelen-machado-758b393a/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4pERlacy450_COkvxKF1ODlXEe2gpHLfFrw&s.gif" width="45" />
-</a>
-
-<a href="mailto:kelenribcarvalho@gmail.com">
-  <img src="https://cdn.dribbble.com/userupload/21431665/file/original-1bb12c5f23da1c97fc2e25e87290b43d.gif" width="60"/>
-</a>
-
-<a href="https://kelenmachado.github.io/Portifolio/">
-  <img src="https://img.shields.io/badge/Portfólio-0d2a4e?style=for-the-badge&logo=About.me&logoColor=white" width="120"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=KelenMachado&color=0d2a4e&style=for-the-badge" width="120"/>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/kelen-machado-758b393a/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4pERlacy450_COkvxKF1ODlXEe2gpHLfFrw&s.gif" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kelenribcarvalho@gmail.com">
+    <img src="https://cdn.dribbble.com/userupload/21431665/file/original-1bb12c5f23da1c97fc2e25e87290b43d.gif" width="60"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kelenmachado.github.io/Portifolio/">
+    <img src="https://img.shields.io/badge/Portfólio-0d2a4e?style=for-the-badge&logo=About.me&logoColor=white" width="120"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=KelenMachado&color=0d2a4e&style=for-the-badge" width="120"/>
+</p>
 
 ---
 
