@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0d2a4e&text=Buscando%20valor%20em%20Dados&fontColor=FFFFFF&fontSize=20&animation=fadeIn&fontAlign=50&fontAlignY=25" height="350" alt="Imagem inicial"/>
 <img src="https://www.minitab.com/content/dam/www/en/images/website-images/landing-page-images/FeaturedAnalytics-StatProcess-img.jpg"
      alt="Imagem inicial"
-     style="width:100%; height:350px; opacity:0.1; position:absolute; top:0; left:0; z-index:-1;" />
+     style="width:100%; height:350px; opacity:0.9; position:absolute; top:0; left:0; z-index:-1;" />
 
 Profissional em transição para Dados e Programação, com experiência em RH e foco em análise de dados e automação.
 
