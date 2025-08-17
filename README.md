@@ -39,7 +39,7 @@
 <td style="background-color:#FFF8DC;padding:15px;border-radius:10px;box-shadow:2px 2px 8px rgba(0,0,0,0.1);transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
 
 <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000.png" width="40"/>
-- <img src="https://media.giphy.com/media/UqZ4imFIoljlrqgZZz/giphy.gif" width="25"/> ![Microsoft Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+<img src="https://img.icons8.com/?size=100&id=JdOSrU3pawBf&format=png&color=000000.png" width="40"/>
 
 </td>
 <td style="background-color:#F0F8FF;padding:15px;border-radius:10px;box-shadow:2px 2px 8px rgba(0,0,0,0.1);transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
