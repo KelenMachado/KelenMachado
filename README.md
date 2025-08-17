@@ -13,7 +13,7 @@
 <th style="background-color:#FFF8DC;border-radius:10px;padding:10px;">📊 Análise de Dados</th>
 <th style="background-color:#F0F8FF;border-radius:10px;padding:10px;">🤖 Automação e Scripts</th>
 <th style="background-color:#FFF8DC;border-radius:10px;padding:10px;">🗄️ Banco de Dados</th>
-<th style="background-color:#F0F8FF;border-radius:10px;padding:10px;">🌐 Desenvolvimento Web</th>
+<th style="background-color:#F0F8FF;border-radius:10px;padding:10px;">🌐 Dev Web</th>
 </tr>
 <tr>
 <td style="background-color:#FFF8DC;padding:15px;border-radius:10px;box-shadow:2px 2px 8px rgba(0,0,0,0.1);transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
