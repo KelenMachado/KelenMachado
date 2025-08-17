@@ -15,7 +15,7 @@
 
 <table>
 <tr>
-<th style="background-color:#FFF8DC;border-radius:10px;padding:10px;">📊 Análise e Visualização de Dados</th>
+<th style="background-color:#FFF8DC;border-radius:10px;padding:10px;">📊 Análise de Dados</th>
 <th style="background-color:#F0F8FF;border-radius:10px;padding:10px;">🤖 Automação e Scripts</th>
 <th style="background-color:#FFF8DC;border-radius:10px;padding:10px;">🗄️ Banco de Dados</th>
 <th style="background-color:#F0F8FF;border-radius:10px;padding:10px;">🌐 Desenvolvimento Web</th>
