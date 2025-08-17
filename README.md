@@ -4,7 +4,7 @@
      src="https://www.minitab.com/content/dam/www/en/images/website-images/landing-page-images/FeaturedAnalytics-StatProcess-img.jpg" 
      height="350" 
      alt="Imagem inicial" 
-     style="opacity:0.7;"/>
+     style="opacity:1;"/>
 
 Profissional em transição para Dados e Programação, com experiência em RH e foco em análise de dados e automação.
 
