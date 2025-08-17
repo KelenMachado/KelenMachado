@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0d2a4e&text=Buscando%20valor%20em%20Dados&textBg=false&animation=fadeIn&fontSize=20&fontColor=0d2a4e"/>
 <img width="100%" src="https://www.minitab.com/content/dam/www/en/images/website-images/landing-page-images/FeaturedAnalytics-StatProcess-img.jpg.png" height="350" alt="Imagem inicial"/>
 
-## 🚀 Profissional em transição para Dados e Programação, com experiência em RH e foco em análise de dados e automação.
+Profissional em transição para Dados e Programação, com experiência em RH e foco em análise de dados e automação.
 
 ---
 
