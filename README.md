@@ -46,7 +46,7 @@
 
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000.png" width="40" height="40" alt="Html" />
 <img src="https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000.png" width="40" height="40" alt="CSS" />
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="40" height="40" alt="Javascript" />
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.png" width="40" height="40" alt="Javascript" />
 
 </td>
 </tr>
