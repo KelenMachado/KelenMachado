@@ -1,7 +1,5 @@
 <!-- Capa com frase de impacto -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d2a4e&height=120&section=header"/>
-
-# 👋 Olá, sou a **Kelen**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0d2a4e&text=Buscando%20valor%20em%20Dados&textBg=false&animation=fadeIn&fontSize=20&fontColor=0d2a4e"/>
 
 💼 **Especialista em Departamento Pessoal, RH e Análise de Dados**  
 📊 Transformo **dados** em **decisões estratégicas**  
