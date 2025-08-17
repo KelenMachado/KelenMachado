@@ -71,10 +71,21 @@ Transformação de equipes através de análise de dados e boas práticas de RH.
 ---
 
 ## 📌 Conecte-se comigo
-[![LinkedIn](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4pERlacy450_COkvxKF1ODlXEe2gpHLfFrw&s.gif) width="40" height="40"](https://www.linkedin.com/in/kelen-machado-758b393a/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelenribcarvalho@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-0d2a4e?style=for-the-badge&logo=About.me&logoColor=white)](https://kelenmachado.github.io/Portifolio/)
-![Profile Views](https://komarev.com/ghpvc/?username=KelenMachado&color=0d2a4e&style=for-the-badge)
+
+<a href="https://www.linkedin.com/in/kelen-machado-758b393a/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4pERlacy450_COkvxKF1ODlXEe2gpHLfFrw&s.gif" width="80" />
+</a>
+
+<a href="mailto:kelenribcarvalho@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120"/>
+</a>
+
+<a href="https://kelenmachado.github.io/Portifolio/">
+  <img src="https://img.shields.io/badge/Portfólio-0d2a4e?style=for-the-badge&logo=About.me&logoColor=white" width="120"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=KelenMachado&color=0d2a4e&style=for-the-badge" width="120"/>
+
 
 ---
 
