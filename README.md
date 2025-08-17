@@ -45,7 +45,7 @@
 <td style="background-color:#F0F8FF;padding:15px;border-radius:10px;box-shadow:2px 2px 8px rgba(0,0,0,0.1);transition:0.3s;opacity:1;" onmouseover="this.style.opacity=0.8" onmouseout="this.style.opacity=1">
 
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000.png" width="40" height="40" alt="Html" />
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40" height="40" alt="CSS" />
+<img src="https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000.png" width="40" height="40" alt="CSS" />
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="40" height="40" alt="Javascript" />
 
 </td>
