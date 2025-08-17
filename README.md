@@ -87,7 +87,7 @@ Transformação de equipes através de análise de dados e boas práticas de RH.
     <img src="https://img.shields.io/badge/Portfólio-0d2a4e?style=for-the-badge&logo=About.me&logoColor=white" width="120"/>
   </a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=KelenMachado&color=0d2a4e&style=for-the-badge" width="120"/>
+  <img src="https://komarev.com/ghpvc/?username=KelenMachado&color=0d2a4e&style=for-the-badge" width="160"/>
 </p>
 
 ---
