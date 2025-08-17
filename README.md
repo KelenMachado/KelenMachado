@@ -1,6 +1,6 @@
 <!-- Capa com frase de impacto -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0d2a4e&text=Buscando%20valor%20em%20Dados&textBg=false&animation=fadeIn&fontSize=20&fontColor=0d2a4e"/>
-<img src="https://itforum.com.br/wp-content/uploads/2018/05/dataanalytics_1193397784-2.jpg" style="opacity: 0.5 />
+<img width="100%" src="https://itforum.com.br/wp-content/uploads/2018/05/dataanalytics_1193397784-2.jpg" />
 
 ---
 
