@@ -71,7 +71,7 @@ Transformação de equipes através de análise de dados e boas práticas de RH.
 ---
 
 ## 📌 Conecte-se comigo
-[![LinkedIn](https://i.pinimg.com/originals/91/97/6a/91976aefea7832ea344e9d663fc8d123.gif)](https://www.linkedin.com/in/kelen-machado-758b393a/)
+[![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyoursalesplaybook.com%2Funcategorized%2Flinkedin-15-prospecting-tactics-that-really-work%2F&psig=AOvVaw2IEG3x4gzpKz0-APgYO8It&ust=1755490638439000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICi4uuAkY8DFQAAAAAdAAAAABAe)](https://www.linkedin.com/in/kelen-machado-758b393a/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelenribcarvalho@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-0d2a4e?style=for-the-badge&logo=About.me&logoColor=white)](https://kelenmachado.github.io/Portifolio/)
 ![Profile Views](https://komarev.com/ghpvc/?username=KelenMachado&color=0d2a4e&style=for-the-badge)
