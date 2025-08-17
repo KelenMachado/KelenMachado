@@ -1,6 +1,6 @@
 <!-- Capa com frase de impacto -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0d2a4e&text=Buscando%20valor%20em%20Dados&textBg=false&animation=fadeIn&fontSize=20&fontColor=0d2a4e"/>
-<img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0PwDwXMYSomyWYCocjxfEr1Cy-3vpdXh8jA&s.png" style="opacity: 0.9;" alt="Imagem com opacidade"/>
+<img width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.minitab.com%2Fpt-br%2Fsolutions%2Fanalytics%2F&psig=AOvVaw3G-KDzET8xQApbkGqSENNu&ust=1755490269529000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiXh4b9kI8DFQAAAAAdAAAAABAE.png" style="opacity: 0.9;" alt="Imagem com opacidade"/>
 
 ---
 
