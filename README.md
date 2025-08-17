@@ -77,7 +77,7 @@ Transformação de equipes através de análise de dados e boas práticas de RH.
 </a>
 
 <a href="mailto:kelenribcarvalho@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120"/>
+  <img src="https://cdn.dribbble.com/userupload/21431665/file/original-1bb12c5f23da1c97fc2e25e87290b43d.gif" width="60"/>
 </a>
 
 <a href="https://kelenmachado.github.io/Portifolio/">
