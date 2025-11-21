@@ -85,7 +85,7 @@ Transformação de equipes através de análise de dados e boas práticas de RH.
     <img src="https://cdn.dribbble.com/userupload/21431665/file/original-1bb12c5f23da1c97fc2e25e87290b43d.gif" width="60"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://kelenmachado.github.io/Portifolio/">
+  <a href="https://portfolio-kelenmachado.lovable.app/">
     <img src="https://img.shields.io/badge/Portfólio-0d2a4e?style=for-the-badge&logo=About.me&logoColor=white" width="120"/>
   </a>
   &nbsp;&nbsp;
