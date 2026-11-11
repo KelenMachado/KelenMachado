@@ -50,7 +50,7 @@ Uno a vivência direta dos processos corporativos de gestão de pessoas com mét
 ### 📌 Iniciativas e Modelos em Destaque
 
 #### 📊 Painel de Gestão de Horas Extras e Banco de Horas
-Modelo desenvolvido em Power BI para monitoramento de despesas com horas suplementares e saldos de banco de horas por centro de custo.
+Modelo desenvolvido em Power BI para monitoramento de despesas com horas suplementares e saldos de banco de horas por equipes.
 * Modelagem dimensional separando tabelas de fatos e dimensões.
 * Tratamento de regras de jornada e cálculos de horas em DAX.
 * Visuais orientados ao acompanhamento gerencial e controle orçamentário.
